@@ -7,10 +7,10 @@ Frontend asoslarini o‘rganish va amaliy mashqlar uchun mo‘ljallangan.
 
 ## 🛠 Texnologiyalar
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40"/>
+ HTML <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40"/>
+ CSS <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40"/>
+ JavaScript <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40"/>
+ Tailwind <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40"/>
 </p>
 
 ---
