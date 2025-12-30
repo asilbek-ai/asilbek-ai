@@ -1,4 +1,4 @@
-# 👋 Assalomu alaykum, I'm Qahramonov Asilbek
+# 👋  I'm  Asilbek
 
 💻 Frontend Developer | 🎨 UI Builder | ⚡ JavaScript Enthusiast  
 
