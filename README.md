@@ -41,11 +41,7 @@
 
 ---
 
-## 📸 Project Preview
 
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/preview.png" width="600"/>
-
----
 
 ## 🚀 Getting Started
 
