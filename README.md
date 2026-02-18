@@ -1,8 +1,8 @@
 # 👋  I'm  Asilbek
 
 <p align="center">
-  <img src="./space.gif" width="100%" />
-</p>
+  <img src="RAW_LINKNI_SHU_YERGA_QO'YASAN" width="100%" />
+</p>>
 
 💻 Frontend Developer | 🎨 UI Builder | ⚡ JavaScript Enthusiast  
 
