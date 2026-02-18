@@ -58,6 +58,10 @@
 
 **Qahramonov Asilbek**
 
+
+<p align="center">
+  <img src="https://github.com/USERNAME/REPO/blob/main/profile-video.gif" width="700"/>
+</p>
 <!--
 **asilbek-ai/asilbek-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
