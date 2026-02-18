@@ -1,8 +1,8 @@
 # 👋  I'm  Asilbek
 
-<p align="center">
+<!-- <p align="center">
   <img src="RAW_LINKNI_SHU_YERGA_QO'YASAN" width="100%" />
-</p>>
+</p>> -->
 
 💻 Frontend Developer | 🎨 UI Builder | ⚡ JavaScript Enthusiast  
 
@@ -56,6 +56,6 @@
 
 **Qahramonov Asilbek**
 
-<p align="center">
+<!-- <p align="center">
   <img src="[./space.gif](https://github.com/copilot/share/c8455032-4b04-8cf4-8052-ea46449568e4)" width="700" />
-</p>
+</p> -->
