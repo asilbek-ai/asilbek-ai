@@ -57,5 +57,5 @@
 **Qahramonov Asilbek**
 
 <p align="center">
-  <img src="./space.gif" width="700" />
+  <img src="[./space.gif](https://github.com/copilot/share/c8455032-4b04-8cf4-8052-ea46449568e4)" width="700" />
 </p>
