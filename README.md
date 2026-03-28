@@ -1,61 +1,68 @@
-# 👋  I'm  Asilbek
+<h1 align="center">Hi 👋, I'm Asilbek</h1>
 
-<!-- <p align="center">
-  <img src="RAW_LINKNI_SHU_YERGA_QO'YASAN" width="100%" />
-</p>> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI+Builder;JavaScript+Enthusiast&center=true&width=500&height=50">
+</p>
 
-💻 Frontend Developer | 🎨 UI Builder | ⚡ JavaScript Enthusiast  
-
-✨ I build modern, responsive, and clean web interfaces using  
-**HTML, CSS, Tailwind CSS, and JavaScript**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff"/>
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 Building responsive and modern websites
-- 🎨 Styling UI with Tailwind CSS
-- ⚙️ Adding interactivity using JavaScript
-- 📱 Mobile-first & clean design approach
-- 🧠 Constantly learning frontend best practices
+- 🎯 Building responsive and modern websites  
+- 🎨 Styling UI with Tailwind CSS  
+- ⚙️ Adding interactivity using JavaScript  
+- 📱 Mobile-first & clean design approach  
+- 🧠 Constantly learning frontend best practices  
 
 ---
 
-## 📂 My Projects Include
+## 📊 GitHub Stats
 
-- 🌐 Responsive landing pages and websites
-- 🎨 UI components built with Tailwind CSS
-- ⚡ JavaScript mini-projects and DOM manipulation
-- 🧩 Interactive forms and validations
-- 📱 Mobile-friendly layouts
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🚀 Getting Started
+## 🧠 Most Used Languages
 
-1. Clone the repository  
-2. Open `index.html` in your browser  
-3. Enjoy the project 🚀  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+- 🌐 Responsive Landing Pages  
+- 🎨 Tailwind UI Components  
+- ⚡ JavaScript Mini Projects  
+- 🧩 Interactive Forms  
+- 📱 Mobile-friendly layouts  
 
 ---
 
 ## 👤 Author
 
 **Qahramonov Asilbek**
-
-<!-- <p align="center">
-  <img src="[./space.gif](https://github.com/copilot/share/c8455032-4b04-8cf4-8052-ea46449568e4)" width="700" />
-</p> -->
