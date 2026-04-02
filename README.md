@@ -28,30 +28,10 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"/>
-</p>
 
 ---
 
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 🚀 Projects
 
