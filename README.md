@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Asilbek;Frontend+Developer;UI+Builder;JavaScript+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Asilbek%20Qahramonov&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%20Builder&descAlignY=55&descSize=16" alt="Header" />
-</p> -->
+</p> 
 
 <!-- 3D Animated Card -->
 <p align="center">
@@ -14,10 +14,10 @@
 <br/>
 
 <!-- 3D Glowing Stats -->
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsilbekQahramonov&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff&border_radius=15&border_color=00C9FF&ring_color=92FE9D&hide_border=false&custom_title=GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsilbekQahramonov&layout=compact&theme=radical&bg_color=0a0a0a&title_color=00C9FF&text_color=ffffff&border_radius=15&border_color=92FE9D&hide_border=false&custom_title=Top%20Languages" alt="Top Languages" />
-</p>
+</p> -->
 
 <br/>
 
