@@ -6,20 +6,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Asilbek%20Qahramonov&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%20Builder&descAlignY=55&descSize=16" alt="Header" />
 </p> 
 
-<!-- 3D Animated Card -->
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsilbekQahramonov&theme=react-dark&bg_color=0a0a0a&hide_border=true&area=true&color=00C9FF&line=92FE9D&point=00C9FF&custom_title=Coding%20Activity%20Graph&height=250" width="90%" alt="Activity Graph" />
-</p> -->
+<br/>
+
+<!-- WORKING 3D STATS SECTION -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsilbekQahramonov&theme=radical&background=0a0a0a&stroke=00C9FF&ring=92FE9D&fire=00C9FF&currStreakNum=ffffff&sideNums=00C9FF&currStreakLabel=92FE9D&sideLabels=ffffff&dates=ffffff&border_radius=15" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsilbekQahramonov&theme=radical&bg_color=0a0a0a&title_color=00C9FF&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsilbekQahramonov&theme=radical&bg_color=0a0a0a&title_color=00C9FF&text_color=ffffff" />
+</p>
 
 <br/>
 
-<!-- 3D Glowing Stats -->
-<!-- <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsilbekQahramonov&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff&border_radius=15&border_color=00C9FF&ring_color=92FE9D&hide_border=false&custom_title=GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsilbekQahramonov&layout=compact&theme=radical&bg_color=0a0a0a&title_color=00C9FF&text_color=ffffff&border_radius=15&border_color=92FE9D&hide_border=false&custom_title=Top%20Languages" alt="Top Languages" />
-</p> -->
 
-<br/>
 
 <!-- 3D Contribution Snake -->
 <picture>
