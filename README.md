@@ -9,7 +9,7 @@
 <br/>
 
 <!-- WORKING 3D STATS SECTION -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsilbekQahramonov&theme=radical&background=0a0a0a&stroke=00C9FF&ring=92FE9D&fire=00C9FF&currStreakNum=ffffff&sideNums=00C9FF&currStreakLabel=92FE9D&sideLabels=ffffff&dates=ffffff&border_radius=15" />
@@ -20,7 +20,7 @@
   <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsilbekQahramonov&theme=radical&bg_color=0a0a0a&title_color=00C9FF&text_color=ffffff" />
 </p>
 
-<br/>
+<br/> -->
 
 
 
