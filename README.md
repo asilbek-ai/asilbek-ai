@@ -7,9 +7,9 @@
 </p> 
 
 <!-- 3D Animated Card -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsilbekQahramonov&theme=react-dark&bg_color=0a0a0a&hide_border=true&area=true&color=00C9FF&line=92FE9D&point=00C9FF&custom_title=Coding%20Activity%20Graph&height=250" width="90%" alt="Activity Graph" />
-</p>
+</p> -->
 
 <br/>
 
