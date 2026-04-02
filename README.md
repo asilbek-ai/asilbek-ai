@@ -61,3 +61,28 @@ const asilbek = {
   currentFocus: "Learning Next.js & Advanced Animations",
   funFact: "I turn coffee into code ☕ → 💻"
 };
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: AsilbekQahramonov
+          svg_out_path: dist
+          snake_color: '00C9FF'
+          dark_snake_color: '92FE9D'
+          
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
